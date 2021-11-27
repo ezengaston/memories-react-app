@@ -7,5 +7,5 @@
 
 ### In server directory:
 - Change **process.env.CONNECTION_URL** to your MongoDB url.
-- Change **process.env.ORIGIN_URL** to your fronend server url, for example: *"https://memoriesapp-react.netlify.app"* or *"localhost:3000"*.
+- Change **process.env.ORIGIN_URL** to your frontend server url, for example: *"https://memoriesapp-react.netlify.app"* or *"localhost:3000"*.
 - Change **process.env.SERVER_URL** to your backend server url.
