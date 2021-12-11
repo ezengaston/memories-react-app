@@ -2,6 +2,12 @@
 
 # Technologies used:
 - React
+- Mongo DB
+- Express
+- Socket.io
+- Axios
+- Material UI
+- Redux
 
 ## To work on your local machine:
 
