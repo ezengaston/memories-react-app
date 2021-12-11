@@ -1,5 +1,8 @@
 # Working Example: https://memoriesapp-react.netlify.app ✌️👀
 
+# Technologies used:
+- React
+
 ## To work on your local machine:
 
 ### In client directory:
