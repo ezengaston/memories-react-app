@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const API = axios.create({
-  baseURL: process.env.SERVER_URL,
+  baseURL: process.env.REACT_APP_SERVER_URL,
 });
 
 API.interceptors.request.use((req) => {
